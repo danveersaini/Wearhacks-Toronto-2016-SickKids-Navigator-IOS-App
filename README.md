@@ -1,2 +1,2 @@
-# Beacon-Navigator
-Indoor Navigation using iBeacon / Bluetooth Technologie and Trilateration algorithms
+# SickKids Navigator using Estimote iBeeacons
+Indoor Navigation using iBeacon Trilateration algorithms
